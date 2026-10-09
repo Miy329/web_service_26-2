@@ -84,18 +84,18 @@
 
 `screenshots` 폴더에 있습니다.
 
-| 번호 | 내용 | 파일 |
+| 번호 | 테스트 내용 | 캡처 |
 |---|---|---|
-| 1 | POST 생성 (201) | `01_post.png` |
-| 2 | POST 일괄 생성 (201) | `02_post_bulk.png` |
-| 3 | GET 전체 조회 (200) | `03_get_all.png` |
-| 4 | GET 단건 조회 (200) | `04_get_one.png` |
-| 5 | PUT 수정 (200) | `05_put.png` |
-| 6 | PUT 가격 수정 (200) | `06_put_price.png` |
-| 7 | DELETE 삭제 (200) | `07_delete.png` |
-| 8 | DELETE 전체 삭제 (200) | `08_delete_all.png` |
-| 9 | 404 | `09_404.png` |
-| 10 | 400 | `10_400.png` |
-| 11 | 500 | `11_500.png` |
-| 12 | 503 | `12_503.png` |
-| 13 | 콘솔 로그 (미들웨어) | `13_console_log.png` |
+| 01 | POST 상품 1개 생성 (201) | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20034028.png) |
+| 02 | POST 상품 일괄 생성 (201) | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20034257.png) |
+| 03 | GET 전체 조회 (200) | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20034632.png) |
+| 04 | GET 단건 조회 (200) | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20034725.png) |
+| 05 | PUT 상품 수정 (200) | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20034833.png) |
+| 06 | PUT 가격만 수정 (200) | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20034917.png) |
+| 07 | DELETE 단건 삭제 (200) | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20035033.png) |
+| 08 | DELETE 전체 삭제 (200) | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20035132.png) |
+| 09 | GET 존재하지 않는 상품 (404) | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20035233.png) |
+| 10 | PUT 잘못된 가격 (400) | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20035516.png) |
+| 11 | 500 오류 응답 테스트 | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20035632.png) |
+| 12 | 503 오류 응답 테스트 | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20035745.png) |
+| 13 | 미들웨어 콘솔 로그 | [사진 보기](screenshots/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-10%20040007.png) |
